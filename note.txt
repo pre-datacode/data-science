@@ -1,0 +1,21 @@
+https://machinelearningmastery.com/rfe-feature-selection-in-python/
+
+http://rasbt.github.io/mlxtend/user_guide/classifier/StackingClassifier/
+
+https://www.analyticsvidhya.com/blog/2020/10/7-feature-engineering-techniques-machine-learning/
+
+https://medium.com/analytics-vidhya/outlier-treatment-9bbe87384d02
+
+https://towardsdatascience.com/how-machine-learning-and-ai-can-improve-travel-services-3fc8a88664c4
+
+Predictive analytics are used to determine customer responses or purchases, as well as promote cross-sell opportunities.
+Predictive models help businesses attract, retain and grow their most profitable customers. Improving operations. 
+Many companies use predictive models to forecast inventory and manage resources.
+
+Predictive analytics is the use of data, statistical algorithms and machine learning techniques to identify the 
+likelihood of future outcomes based on historical data. The goal is to go beyond knowing what has happened to providing 
+a best assessment of what will happen in the future.
+
+https://www.fingent.com/blog/data-mining-and-predictive-analytics-know-the-difference/
+
+https://medium.com/app-affairs/9-applications-of-machine-learning-from-day-to-day-life-112a47a429d0
